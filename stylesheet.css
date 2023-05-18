@@ -1,3 +1,22 @@
-body{
-    background-color:blue;
+body {
+  font-family: Arial, sans-serif;
+  background-color: gray;
+}
+
+h1 {
+  font-size: 26px;
+  font-weight: bold;
+  color: firebrick;
+}
+
+span {
+  color: yellow;
+}
+
+span1 {
+  color: green;
+}
+
+span2 {
+  color: orangered;
 }
